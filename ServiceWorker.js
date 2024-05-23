@@ -1,9 +1,9 @@
 const cacheName = "ASME.MEB.BilginMete-MEB - Bilgin Mete-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/22-Bilgin Mete.loader.js",
+    "Build/22-Bilgin Mete.framework.js",
+    "Build/22-Bilgin Mete.data",
+    "Build/22-Bilgin Mete.wasm",
     "TemplateData/style.css"
 
 ];
